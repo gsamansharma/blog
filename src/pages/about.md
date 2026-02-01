@@ -3,35 +3,43 @@ layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
 
-AstroPaper is a minimal, accessible and SEO-friendly blog theme built with [Astro](https://astro.build/) and [Tailwind CSS](https://tailwindcss.com/).
+Hi, I'm **Aman Sharma** 👋
 
-![Astro Paper](public/astropaper-og.jpg)
+I'm a backend engineer interested in building scalable systems, exploring security concepts, and understanding how modern web infrastructure works.
 
-AstroPaper provides a solid foundation for blogs, or even portfolios\_ with full markdown support, built-in dark mode, and a clean layout that works out-of-the-box.
+This blog is where I write about things I'm learning, building, and experimenting with.
 
-The blog posts in this theme also serve as guides, docs or example articles\_ making AstroPaper a flexible starting point for your next content-driven site.
+## Topics I write about
 
-## Features
+* Backend architecture
+* Authentication and security (JWT, cookies, mTLS)
+* Distributed systems
+* Performance and scalability
+* Developer tooling
+* Experiments and side projects
 
-AstroPaper comes with a set of useful features that make content publishing easy and effective:
+Most articles come from real problems I encounter while building projects or exploring new technologies.
 
-- SEO-friendly
-- Fast performance
-- Light & dark mode
-- Highly customizable
-- Organizable blog posts
-- Responsive & accessible
-- Static search with [PageFind](https://pagefind.app/)
-- Automatic social image generation
+## Portfolio
 
-and so much more.
+You can see my work, projects, and experience on my portfolio website:
 
-## Show your support
+**https://amansharma.cv**
 
-If you like [AstroPaper](https://github.com/satnaing/astro-paper), consider giving it a star ⭐️.
+## Tech stack behind this blog
 
-Found a bug 🐛 or have an improvement ✨ in mind? Feel free to open an [issue](https://github.com/satnaing/astro-paper/issues), submit a [pull request](https://github.com/satnaing/astro-paper/pulls) or start a [discussion](https://github.com/satnaing/astro-paper/discussions).
+This blog is built using:
 
-If you find this theme helpful, you can also [sponsor me on GitHub](https://github.com/sponsors/satnaing) or [buy me a coffee](https://buymeacoffee.com/satnaing) to show your support — every penny counts.
+* Astro
+* Markdown
+* Tailwind CSS
+* GitHub Pages
 
-Kyay zuu! 🙏🏼
+The design is based on the **AstroPaper** template.
+
+## Connect
+
+You can find my code and projects on GitHub:
+
+**https://github.com/gsamansharma**
+
