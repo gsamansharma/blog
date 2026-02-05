@@ -4,7 +4,7 @@ export const SITE = {
   profile: "https://amansharma.cv",
   desc: "Aman Sharma's blog dives into backend engineering, security, authentication, and distributed systems with practical insights.",
   title: "Aman Sharma blogs",
-  ogImage: "og-image.jpg", 
+  ogImage: "og-image.jpg",
   lightAndDarkMode: true,
   postPerIndex: 5,
   postPerPage: 5,
@@ -20,4 +20,7 @@ export const SITE = {
   dir: "ltr",
   lang: "en",
   timezone: "Asia/Kolkata",
+  analytics: {
+    umamiId: "565498fa-f355-4693-a4ca-a6e56abcc68f",
+  },
 } as const;
