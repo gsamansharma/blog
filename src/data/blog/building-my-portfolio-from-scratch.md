@@ -24,6 +24,8 @@ I always wanted a portfolio website that felt different—something interactive 
 
 Being a linux entusiast, I decided to build a terminal-based portfolio that would look cool.
 
+### Challenges:
+
 But there were problems, one of them was making it responsive for both desktop, mobile, tablet, etc
 
 The second problem was usability. It was difficult to navigate. Imagine using commands for navigation, only terminal enthusiasts would find that interesting, which meant it wouldnt appeal to a broader audience.
@@ -34,7 +36,11 @@ The second problem was usability. It was difficult to navigate. Imagine using co
 
 So, here comes the second version, I decided to implement an OS styled portfolio.
 
+### Features:
+
 Basic plan, it would have my projects, research articles, resume, social profiles, skills and the terminal website you remember. This version was complete and built entirely in vanilla JavaScript. 
+
+### Problem:
 
 But again, there was a problem, I couldnt resuse the components easily
 
@@ -43,6 +49,8 @@ But again, there was a problem, I couldnt resuse the components easily
 ## Version 3: Moving to Next.js
 
 So, here comes the next version(pun intended)
+
+### Why Next.js?
 
 I chose next because “lets be honest” who doesn’t want their name to show up on Google when someone searches for them?
 
@@ -54,8 +62,12 @@ I wanted server side rendering so crawlers could properly see my website, index 
 
 So, built this, asked my friends to review it
 
+### Issues Identified:
+
 They liked the concept but didn’t like the wallpaper.
 They said it was distracting.
+
+### Fixes:
 
 So, the next challenge was to find a very minimal wallpaper that didn’t steal the show, took help from gemini.
 
@@ -75,6 +87,7 @@ Having a single responsive design for both desktop and mobile was difficult. It 
 
 So instead of depending on media query, I created a dedicated desktop layout(for larger screens) and the mobile one remains as it is
 
+### Additions:
 
 Then I added:
 Windows for projects and projects and skills (desktop)
@@ -97,7 +110,7 @@ I started sharing it publicly across platforms, but didn’t get much attention.
 
 ---
 
-##  Breakthrough on Reddit
+## Breakthrough on Reddit
 
 Then randomly, I shared it on Reddit without any expectations.
 And it blew up.
@@ -115,4 +128,7 @@ That’s when I thought why not make a portfolio builder, so others could enter 
 
 This is just the beginning.
 A detailed blog on ShowMyPage is coming soon.
+
+
+
 ---
