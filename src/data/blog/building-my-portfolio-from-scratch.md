@@ -24,6 +24,14 @@ I always wanted a portfolio website that felt different—something interactive 
 
 Being a linux entusiast, I decided to build a terminal-based portfolio that would look cool.
 
+<figure style="margin: 2rem 0; text-align: center;">
+  <video autoplay loop muted playsinline style="width: 100%; border-radius: 8px;">
+    <source src="/assets/building-my-portfolio-from-scratch/terminal-portfolio-preview.webm" type="video/webm">
+    Your browser does not support the video tag.
+  </video>
+  <figcaption style="font-size: 0.875rem; color: var(--color-text-base); opacity: 0.8; margin-top: 0.75rem;">Terminal-Based Portfolio Interface (Version 1)</figcaption>
+</figure>
+
 ### Challenges:
 
 * Making it responsive for both desktop, mobile, tablet, etc.
@@ -35,6 +43,14 @@ Being a linux entusiast, I decided to build a terminal-based portfolio that woul
 ## Version 2: OS-Styled Portfolio
 
 So, here comes the second version, I decided to implement an OS styled portfolio.
+
+<figure style="margin: 2rem 0; text-align: center;">
+  <video autoplay loop muted playsinline style="width: 100%; max-width: 300px; border-radius: 8px; margin: 0 auto; display: block;">
+    <source src="/assets/building-my-portfolio-from-scratch/mobile-os-portfolio.webm" type="video/webm">
+    Your browser does not support the video tag.
+  </video>
+  <figcaption style="font-size: 0.875rem; color: var(--color-text-base); opacity: 0.8; margin-top: 0.75rem;">OS-Styled Mobile Portfolio Layout (Version 2)</figcaption>
+</figure>
 
 ### Features:
 
@@ -103,6 +119,11 @@ Now, it was ready. I started sharing it publicly across platforms, but didn’t 
 ## Breakthrough on Reddit
 
 Then randomly, I shared it on Reddit without any expectations. And it blew up:
+
+<figure style="margin: 2rem 0; text-align: center;">
+  <img src="/assets/building-my-portfolio-from-scratch/reddit-post.webp" alt="Reddit Post Success" style="width: 100%; border-radius: 8px;">
+  <figcaption style="font-size: 0.875rem; color: var(--color-text-base); opacity: 0.8; margin-top: 0.75rem;">Reddit post that reached the top 10 of the month.</figcaption>
+</figure>
 
 * The post reached the **top 10 of the month**.
 * It received a lot of comments, feedback, and appreciation.
