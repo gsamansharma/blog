@@ -76,9 +76,20 @@ So, here comes the next version(pun intended). I chose Next.js for a few key rea
 
 ---
 
+## Responsive Design Challenges
+
+The next big challenge was making the site work seamlessly across devices. Instead of relying purely on complex media queries, I decided to take a more direct approach: I created a dedicated desktop layout for larger screens and an optimized mobile version for smaller ones.
+
+### Additions:
+
+* Window-based UI for projects and skills on desktop.
+* Modals for the mobile experience.
+
+---
+
 ## Design Iterations: Feedback & Improvements
 
-So, built this, asked my friends to review it.
+With the core layouts in place, I built the MVP and asked my friends to review it.
 
 ### Issues Identified:
 
@@ -89,18 +100,7 @@ So, built this, asked my friends to review it.
 ### Fixes:
 
 * Switched to a minimal wallpaper (with help from Gemini).
-* Focused on making it look good and handle different screen sizes.
-
----
-
-## Responsive Design Challenges
-
-So instead of depending on media query, I created a dedicated desktop layout (for larger screens) and the mobile one remains as it is.
-
-### Additions:
-
-* Window-based UI for projects and skills on desktop.
-* Modals for the mobile experience.
+* Focused on the final visual polish to make both desktop and mobile versions look premium.
 
 ---
 
