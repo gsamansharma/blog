@@ -74,11 +74,26 @@ So, here comes the next version(pun intended). I chose Next.js for a few key rea
 * **Component Reusability**: Makes the codebase much more maintainable.
 * **Performance**: Faster page loads and better developer experience.
 
+<figure style="margin: 2rem 0; text-align: center;">
+  <img src="/assets/building-my-portfolio-from-scratch/next-v1-desktop.webp" alt="Next.js V1 Desktop" style="width: 100%; border-radius: 8px;">
+  <figcaption style="font-size: 0.875rem; color: var(--color-text-base); opacity: 0.8; margin-top: 0.75rem;">Initial desktop layout after migrating to Next.js (Version 3)</figcaption>
+</figure>
+
+<figure style="margin: 2rem 0; text-align: center;">
+  <img src="/assets/building-my-portfolio-from-scratch/next-v1-mobile.webp" alt="Next.js V1 Mobile" style="width: 100%; max-width: 300px; border-radius: 8px; margin: 0 auto; display: block;">
+  <figcaption style="font-size: 0.875rem; color: var(--color-text-base); opacity: 0.8; margin-top: 0.75rem;">Initial mobile layout after migrating to Next.js (Version 3)</figcaption>
+</figure>
+
 ---
 
 ## Responsive Design Challenges
 
 The next big challenge was making the site work seamlessly across devices. Instead of relying purely on complex media queries, I decided to take a more direct approach: I created a dedicated desktop layout for larger screens and an optimized mobile version for smaller ones.
+
+<figure style="margin: 2rem 0; text-align: center;">
+  <img src="/assets/building-my-portfolio-from-scratch/next-dedicated-desktop.webp" alt="Dedicated Desktop Layout" style="width: 100%; border-radius: 8px;">
+  <figcaption style="font-size: 0.875rem; color: var(--color-text-base); opacity: 0.8; margin-top: 0.75rem;">The refined dedicated desktop layout for larger screens.</figcaption>
+</figure>
 
 ### Additions:
 
@@ -101,6 +116,16 @@ With the core layouts in place, I built the MVP and asked my friends to review i
 
 * Switched to a minimal wallpaper (with help from Gemini).
 * Focused on the final visual polish to make both desktop and mobile versions look premium.
+
+<figure style="margin: 2rem 0; text-align: center;">
+  <img src="/assets/building-my-portfolio-from-scratch/next-v2-desktop.webp" alt="Next.js V2 Desktop" style="width: 100%; border-radius: 8px;">
+  <figcaption style="font-size: 0.875rem; color: var(--color-text-base); opacity: 0.8; margin-top: 0.75rem;">The refined desktop layout (Version 3.1) after feedback.</figcaption>
+</figure>
+
+<figure style="margin: 2rem 0; text-align: center;">
+  <img src="/assets/building-my-portfolio-from-scratch/next-v2-mobile.webp" alt="Next.js V2 Mobile" style="width: 100%; max-width: 300px; border-radius: 8px; margin: 0 auto; display: block;">
+  <figcaption style="font-size: 0.875rem; color: var(--color-text-base); opacity: 0.8; margin-top: 0.75rem;">The refined mobile layout (Version 3.1) after feedback.</figcaption>
+</figure>
 
 ---
 
@@ -140,6 +165,9 @@ That’s when I thought why not make a portfolio builder, so others could enter 
 
 This is just the beginning.
 A detailed blog on ShowMyPage is coming soon.
+
+**View the live portfolio at [amansharma.cv](https://amansharma.cv)**
+
 
 
 
