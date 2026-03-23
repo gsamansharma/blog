@@ -1,7 +1,7 @@
 ---
 title: "Building an Interactive Portfolio with Next.js"
 description: "A breakdown of how I built my portfolio—from a terminal-style experiment to a fully interactive OS-inspired website—along with the challenges, design decisions, and lessons learned along the way."
-pubDatetime: 2025-03-23T12:30:45Z
+pubDatetime: 2026-03-23T7:30:45Z
 slug: building-my-portfolio-from-scratch
 featured: true
 draft: false
