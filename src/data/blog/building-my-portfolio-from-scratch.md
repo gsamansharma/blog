@@ -1,10 +1,10 @@
 ---
 title: "Building an Interactive Portfolio with Next.js"
 description: "A breakdown of how I built my portfolio—from a terminal-style experiment to a fully interactive OS-inspired website—along with the challenges, design decisions, and lessons learned along the way."
-pubDatetime: 2099-03-23T00:00:00Z
+pubDatetime: 2025-03-23T12:30:45Z
 slug: building-my-portfolio-from-scratch
-featured: false
-draft: true
+featured: true
+draft: false
 tags:
   - portfolio
   - side-project
@@ -132,6 +132,14 @@ With the core layouts in place, I built the MVP and asked my friends to review i
 ## Supporting Both Light & Dark Modes
 
 Dark mode is popular, but you can’t ignore users who prefer light mode. So I implemented both, ensuring a consistent design across both themes.
+
+<figure style="margin: 2rem 0; text-align: center;">
+  <video autoplay loop muted playsinline style="width: 100%; border-radius: 8px;">
+    <source src="/assets/building-my-portfolio-from-scratch/light-dark-mode.webm" type="video/webm">
+    Your browser does not support the video tag.
+  </video>
+  <figcaption style="font-size: 0.875rem; color: var(--color-text-base); opacity: 0.8; margin-top: 0.75rem;">Seamless transition between light and dark modes.</figcaption>
+</figure>
 
 ---
 
