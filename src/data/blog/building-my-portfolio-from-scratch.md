@@ -29,7 +29,7 @@ Being a linux entusiast, I decided to build a terminal-based portfolio that woul
     <source src="/assets/building-my-portfolio-from-scratch/terminal-portfolio-preview.webm" type="video/webm">
     Your browser does not support the video tag.
   </video>
-  <figcaption style="font-size: 0.875rem; color: var(--color-text-base); opacity: 0.8; margin-top: 0.75rem;">Terminal-Based Portfolio Interface (Version 1)</figcaption>
+  <figcaption style="font-size: 0.875rem; margin-top: 0.75rem;">Terminal-Based Portfolio Interface (Version 1)</figcaption>
 </figure>
 
 ### Challenges:
@@ -49,7 +49,7 @@ So, here comes the second version, I decided to implement an OS styled portfolio
     <source src="/assets/building-my-portfolio-from-scratch/mobile-os-portfolio.webm" type="video/webm">
     Your browser does not support the video tag.
   </video>
-  <figcaption style="font-size: 0.875rem; color: var(--color-text-base); opacity: 0.8; margin-top: 0.75rem;">OS-Styled Mobile Portfolio Layout (Version 2)</figcaption>
+  <figcaption style="font-size: 0.875rem; margin-top: 0.75rem;">OS-Styled Mobile Portfolio Layout (Version 2)</figcaption>
 </figure>
 
 ### Features:
@@ -76,12 +76,12 @@ So, here comes the next version(pun intended). I chose Next.js for a few key rea
 
 <figure style="margin: 2rem 0; text-align: center;">
   <img src="/assets/building-my-portfolio-from-scratch/next-v1-desktop.webp" alt="Next.js V1 Desktop" style="width: 100%; border-radius: 8px;">
-  <figcaption style="font-size: 0.875rem; color: var(--color-text-base); opacity: 0.8; margin-top: 0.75rem;">Initial desktop layout after migrating to Next.js (Version 3)</figcaption>
+  <figcaption style="font-size: 0.875rem; margin-top: 0.75rem;">Initial desktop layout after migrating to Next.js (Version 3)</figcaption>
 </figure>
 
 <figure style="margin: 2rem 0; text-align: center;">
   <img src="/assets/building-my-portfolio-from-scratch/next-v1-mobile.webp" alt="Next.js V1 Mobile" style="width: 100%; max-width: 300px; border-radius: 8px; margin: 0 auto; display: block;">
-  <figcaption style="font-size: 0.875rem; color: var(--color-text-base); opacity: 0.8; margin-top: 0.75rem;">Initial mobile layout after migrating to Next.js (Version 3)</figcaption>
+  <figcaption style="font-size: 0.875rem; margin-top: 0.75rem;">Initial mobile layout after migrating to Next.js (Version 3)</figcaption>
 </figure>
 
 ---
@@ -92,7 +92,7 @@ The next big challenge was making the site work seamlessly across devices. Inste
 
 <figure style="margin: 2rem 0; text-align: center;">
   <img src="/assets/building-my-portfolio-from-scratch/next-dedicated-desktop.webp" alt="Dedicated Desktop Layout" style="width: 100%; border-radius: 8px;">
-  <figcaption style="font-size: 0.875rem; color: var(--color-text-base); opacity: 0.8; margin-top: 0.75rem;">The refined dedicated desktop layout for larger screens.</figcaption>
+  <figcaption style="font-size: 0.875rem; margin-top: 0.75rem;">The refined dedicated desktop layout for larger screens.</figcaption>
 </figure>
 
 ### Additions:
@@ -119,12 +119,12 @@ With the core layouts in place, I built the MVP and asked my friends to review i
 
 <figure style="margin: 2rem 0; text-align: center;">
   <img src="/assets/building-my-portfolio-from-scratch/next-v2-desktop.webp" alt="Next.js V2 Desktop" style="width: 100%; border-radius: 8px;">
-  <figcaption style="font-size: 0.875rem; color: var(--color-text-base); opacity: 0.8; margin-top: 0.75rem;">The refined desktop layout (Version 3.1) after feedback.</figcaption>
+  <figcaption style="font-size: 0.875rem; margin-top: 0.75rem;">The refined desktop layout (Version 3.1) after feedback.</figcaption>
 </figure>
 
 <figure style="margin: 2rem 0; text-align: center;">
   <img src="/assets/building-my-portfolio-from-scratch/next-v2-mobile.webp" alt="Next.js V2 Mobile" style="width: 100%; max-width: 300px; border-radius: 8px; margin: 0 auto; display: block;">
-  <figcaption style="font-size: 0.875rem; color: var(--color-text-base); opacity: 0.8; margin-top: 0.75rem;">The refined mobile layout (Version 3.1) after feedback.</figcaption>
+  <figcaption style="font-size: 0.875rem; margin-top: 0.75rem;">The refined mobile layout (Version 3.1) after feedback.</figcaption>
 </figure>
 
 ---
@@ -138,7 +138,7 @@ Dark mode is popular, but you can’t ignore users who prefer light mode. So I i
     <source src="/assets/building-my-portfolio-from-scratch/light-dark-mode.webm" type="video/webm">
     Your browser does not support the video tag.
   </video>
-  <figcaption style="font-size: 0.875rem; color: var(--color-text-base); opacity: 0.8; margin-top: 0.75rem;">Seamless transition between light and dark modes.</figcaption>
+  <figcaption style="font-size: 0.875rem; margin-top: 0.75rem;">Seamless transition between light and dark modes.</figcaption>
 </figure>
 
 ---
@@ -155,7 +155,7 @@ Then randomly, I shared it on Reddit without any expectations. And it blew up:
 
 <figure style="margin: 2rem 0; text-align: center;">
   <img src="/assets/building-my-portfolio-from-scratch/reddit-post.webp" alt="Reddit Post Success" style="width: 100%; border-radius: 8px;">
-  <figcaption style="font-size: 0.875rem; color: var(--color-text-base); opacity: 0.8; margin-top: 0.75rem;">Reddit post that reached the top 10 of the month.</figcaption>
+  <figcaption style="font-size: 0.875rem; margin-top: 0.75rem;">Reddit post that reached the top 10 of the month.</figcaption>
 </figure>
 
 * The post reached the **top 10 of the month**.
